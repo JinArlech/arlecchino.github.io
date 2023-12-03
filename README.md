@@ -8,7 +8,7 @@ My journey is fueled by a deep-rooted interest in [Music, Playing games, Piano, 
 
 ## 🚀 What Am I Up To?
 
-As a perpetual learner, I am currently diving into [What you are currently learning or focusing on]. My GitHub repositories reflect this journey, housing a collection of projects that showcase my skills, creativity, and a commitment to excellence.
+As a perpetual learner, I am currently diving into Python. My GitHub repositories reflect this journey, housing a collection of projects that showcase my skills, creativity, and a commitment to excellence.
 
 ## 🛠️ Projects
 
@@ -23,14 +23,6 @@ These projects are not just code; they are a manifestation of my problem-solving
 
 - **Programming Languages:** [List of Languages, e.g., Python, JavaScript, etc.]
 - **Web Development:** [List of relevant technologies, e.g., HTML, CSS, React, etc.]
-- **[Other skills or technologies you want to highlight]**
-
-## 🌐 Connect with Me
-
-- **LinkedIn:** [Your LinkedIn Profile](link)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-
-Feel free to connect with me on these platforms for insightful discussions, collaboration opportunities, or just to say hello!
 
 ## 🤝 Let's Collaborate
 
